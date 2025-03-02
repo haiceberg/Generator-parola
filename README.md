@@ -51,4 +51,4 @@ Parola generata:  d7fK1QzTr4
 Parola generata cu caractere speciale:  k1G*9wLf#4
 
 ## Contribuții
-Dacă dorești să îmbunătățești acest program sau să adaugi funcționalități suplimentare, te rugăm să contribui printr-un pull request.
+### Dacă dorești să îmbunătățești acest program sau să adaugi funcționalități suplimentare, te rog să contribui printr-un pull request.
